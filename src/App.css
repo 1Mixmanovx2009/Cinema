@@ -1,0 +1,11 @@
+.active{
+    color: #C61F1F;
+}
+.swiper-wrapper{
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.ganre::-webkit-scrollbar{
+    width: 0;
+}
